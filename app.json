@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d8b2da24-757b-4c6c-96ed-64bb3f394d8f"
+      }
+    },
+    "owner": "techmummy"
   }
 }
